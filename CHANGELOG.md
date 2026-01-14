@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0-rc.4](https://github.com/michalby24/tests/compare/v0.0.1-rc.4...v0.1.0-rc.4) (2026-01-14)
+
+
+### Features
+
+* b ([#4](https://github.com/michalby24/tests/issues/4)) ([42efedc](https://github.com/michalby24/tests/commit/42efedc455b7d732eddc7d2a01c91ad17a7ac345))
+
 ## 0.0.1-rc.4 (2026-01-14)
 
 
