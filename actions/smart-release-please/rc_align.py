@@ -12,7 +12,7 @@ def run_git_command(args, fail_on_error=True):
         return result.stdout.strip()
     except subprocess.CalledProcessError:
         return None
-e
+
 def find_baseline_tag():
     # Get all tags sorted by creation date (most recent first)
     # This searches across ALL branches, not just ancestors of HEAD
