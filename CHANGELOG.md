@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.0.1](https://github.com/michalby24/tests/compare/v0.0.1-rc.4...v0.0.1) (2026-01-20)
+
+
+### Features
+
+* b ([#4](https://github.com/michalby24/tests/issues/4)) ([42efedc](https://github.com/michalby24/tests/commit/42efedc455b7d732eddc7d2a01c91ad17a7ac345))
+
+
+### Miscellaneous Chores
+
+* enforce correct rc version ([b6c4159](https://github.com/michalby24/tests/commit/b6c4159c0ced37b7d18f2d8743eb5ca3a8c2f97e))
+
 ## [0.0.1](https://github.com/michalby24/tests/compare/v0.0.1-rc.4...v0.0.1) (2026-01-14)
 
 
