@@ -15,6 +15,21 @@
 * enforce correct rc version ([12e7fc2](https://github.com/michalby24/tests/commit/12e7fc2e57bdf03650da6942b76c600decfe6087))
 * enforce correct rc version ([b6c4159](https://github.com/michalby24/tests/commit/b6c4159c0ced37b7d18f2d8743eb5ca3a8c2f97e))
 
+## [0.1.0](https://github.com/michalby24/tests/compare/v0.1.0-rc.4...v0.1.0) (2026-01-20)
+
+
+### Features
+
+* b ([#4](https://github.com/michalby24/tests/issues/4)) ([42efedc](https://github.com/michalby24/tests/commit/42efedc455b7d732eddc7d2a01c91ad17a7ac345))
+* next ([#11](https://github.com/michalby24/tests/issues/11)) ([1c24e86](https://github.com/michalby24/tests/commit/1c24e867d2f6650705c9794552c59d2b42edaf27))
+
+
+### Miscellaneous Chores
+
+* enforce correct rc version ([1797565](https://github.com/michalby24/tests/commit/17975656e1347869800e33ee2b341a0cafc37057))
+* enforce correct rc version ([12e7fc2](https://github.com/michalby24/tests/commit/12e7fc2e57bdf03650da6942b76c600decfe6087))
+* enforce correct rc version ([b6c4159](https://github.com/michalby24/tests/commit/b6c4159c0ced37b7d18f2d8743eb5ca3a8c2f97e))
+
 ## [0.1.0-rc.4](https://github.com/michalby24/tests/compare/v0.0.1...v0.1.0-rc.4) (2026-01-20)
 
 
